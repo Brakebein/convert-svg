@@ -22,10 +22,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/neocotic/convert-svg.git"
+    "url": "https://github.com/Brakebein/convert-svg.git"
   },
   "dependencies": {
-    "convert-svg-core": "^0.5.0"
+    "convert-svg-core": "file:../convert-svg-core"
   },
   "devDependencies": {
     "convert-svg-test-helper": "^0.5.0",
